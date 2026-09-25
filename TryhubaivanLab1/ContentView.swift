@@ -16,6 +16,11 @@ struct ContentView: View {
             Text("New TREE")
                 .font(.subheadline)
                 .bold(true)
+            
+            Button("Run Program")
+                {
+                    runProgram()
+                }
         }
         .padding()
     }

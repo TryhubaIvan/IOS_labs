@@ -14,6 +14,7 @@
 		A1BBC0A43053D48600FAB6DB /* TryhubaivanLab1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BBC0A33053D48600FAB6DB /* TryhubaivanLab1Tests.swift */; };
 		A1BBC0AE3053D48600FAB6DB /* TryhubaivanLab1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BBC0AD3053D48600FAB6DB /* TryhubaivanLab1UITests.swift */; };
 		A1BBC0B03053D48600FAB6DB /* TryhubaivanLab1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BBC0AF3053D48600FAB6DB /* TryhubaivanLab1UITestsLaunchTests.swift */; };
+		E2F72DF23066626D000A4DE7 /* lab_2_code.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F72DF13066626D000A4DE7 /* lab_2_code.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A1BBC0A93053D48600FAB6DB /* TryhubaivanLab1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TryhubaivanLab1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1BBC0AD3053D48600FAB6DB /* TryhubaivanLab1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryhubaivanLab1UITests.swift; sourceTree = "<group>"; };
 		A1BBC0AF3053D48600FAB6DB /* TryhubaivanLab1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryhubaivanLab1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E2F72DF13066626D000A4DE7 /* lab_2_code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab_2_code.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		A1BBC0863053D48400FAB6DB = {
 			isa = PBXGroup;
 			children = (
+				E2F72DF13066626D000A4DE7 /* lab_2_code.swift */,
 				A1BBC0913053D48400FAB6DB /* TryhubaivanLab1 */,
 				A1BBC0A23053D48600FAB6DB /* TryhubaivanLab1Tests */,
 				A1BBC0AC3053D48600FAB6DB /* TryhubaivanLab1UITests */,
@@ -259,6 +262,7 @@
 			files = (
 				A1BBC0953053D48400FAB6DB /* ContentView.swift in Sources */,
 				A1BBC0933053D48400FAB6DB /* TryhubaivanLab1App.swift in Sources */,
+				E2F72DF23066626D000A4DE7 /* lab_2_code.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
