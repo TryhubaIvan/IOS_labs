@@ -76,7 +76,6 @@
 		A1BBC0863053D48400FAB6DB = {
 			isa = PBXGroup;
 			children = (
-				E2F72DF13066626D000A4DE7 /* lab_2_code.swift */,
 				A1BBC0913053D48400FAB6DB /* TryhubaivanLab1 */,
 				A1BBC0A23053D48600FAB6DB /* TryhubaivanLab1Tests */,
 				A1BBC0AC3053D48600FAB6DB /* TryhubaivanLab1UITests */,
@@ -97,6 +96,7 @@
 		A1BBC0913053D48400FAB6DB /* TryhubaivanLab1 */ = {
 			isa = PBXGroup;
 			children = (
+				E2F72DF13066626D000A4DE7 /* lab_2_code.swift */,
 				A1BBC0923053D48400FAB6DB /* TryhubaivanLab1App.swift */,
 				A1BBC0943053D48400FAB6DB /* ContentView.swift */,
 				A1BBC0963053D48600FAB6DB /* Assets.xcassets */,
