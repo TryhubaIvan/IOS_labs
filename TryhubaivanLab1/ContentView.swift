@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "tree")
                 .imageScale(.large)
                 .foregroundStyle(.black)
-            Text("Tree")
+            Text("Tree1")
                 .font(.subheadline)
                 .bold(true)
         }
